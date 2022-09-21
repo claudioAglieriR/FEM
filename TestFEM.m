@@ -1,6 +1,6 @@
 clear all
 
-%% Third homework - Claudio Aglieri Rinella - 2058086
+%% TestFEM
 
 %% --------------------------------------------------------------
 
